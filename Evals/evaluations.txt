@@ -1,4 +1,5 @@
 Evaluations:
 
-We built a scrapper and web app. As we have no predictions, we don't have any evaluation metrics like accuracy etc. Our web app runs from the scrapped data and we also showed a live demo during our presentation to the professor.
+We built a scrapper and web app. As we have no predictions, we don't have any evaluation metrics like accuracy etc. 
+/*Our web app runs from the scrapped data and we also showed a live demo during our presentation to the professor.
 
