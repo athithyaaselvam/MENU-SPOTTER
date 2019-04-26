@@ -1,6 +1,6 @@
 Restaurant menu spotter application for visually impaired. 
 
-The dependencies are mentioned in requirements.txt file.
+The dependencies are mentioned in requirements.txt file. pip install -r requirements.txt
 
 Run the project.py file to execute the app.
 
