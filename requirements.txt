@@ -3,11 +3,6 @@ bs4==0.0.1
 certifi==2019.3.9
 chardet==3.0.4
 Click==7.0
-Django==2.1.5
-django-crispy-forms==1.7.2
-django-datetimepicker==3.14
-django-otp==0.5.2
-django-tables2==2.0.5
 Flask==1.0.2
 Flask-MySQL==1.4.0
 Flask-SQLAlchemy==2.3.2
@@ -21,7 +16,6 @@ mysql==0.0.2
 mysqlclient==1.4.2.post1
 numpy==1.16.2
 pandas==0.24.2
-postgres==2.2.2
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
 pycryptodome==3.8.0
