@@ -1,0 +1,30 @@
+.card {
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #fcfcfc;
+}
+.card-holder{
+	padding: 10px 0;
+}
+.card:hover{
+	box-shadow: 3px 3px 10px #e2e2e2;
+	border: 1px solid #dadada;
+	transition: all linear 100ms;
+}
+.alerts{
+	padding: 0 15px;
+	margin-bottom: 15px;
+}
+.card-desc{
+	color: #888888;
+}
+.banner{
+	width: 100%;
+	margin: 0 0 20px 0;
+	padding: 0;
+
+}
+.footer-text{
+	padding: 10px 0;
+}
