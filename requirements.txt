@@ -14,7 +14,7 @@ Jinja2==2.10
 MarkupSafe==1.1.1
 mysql==0.0.2
 mysqlclient==1.4.2.post1
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
